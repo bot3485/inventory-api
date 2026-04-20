@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "name": "Test Tester",
+            "role": "user"
+        },
+        {
+            "id": 1,
+            "name": "Admin",
+            "role": "admin"
+        }
+    ],
+    "links": {
+        "first": "http://172.30.10.12:9443/api/users?page=1",
+        "last": "http://172.30.10.12:9443/api/users?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "page": null,
+                "active": false
+            },
+            {
+                "url": "http://172.30.10.12:9443/api/users?page=1",
+                "label": "1",
+                "page": 1,
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "page": null,
+                "active": false
+            }
+        ],
+        "path": "http://172.30.10.12:9443/api/users",
+        "per_page": 10,
+        "to": 2,
+        "total": 2
+    }
+}

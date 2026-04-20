@@ -1,0 +1,12 @@
+{
+    "data": {
+        "id": 2,
+        "name": "Ivan Testov",
+        "role": "user",
+        "network": {
+            "ip": "172.30.10.45",
+            "user_agent": "PostmanRuntime/7.32.3",
+            "active_at": "только что"
+        }
+    }
+}
